@@ -14,7 +14,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/43-grupe-portfolio/
+Site published at: https://ignejurkute.github.io/portfolio/
 
 Design: [Martin](https://www.pxdraft.com/themeforest/martin/)
 
@@ -51,7 +51,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/40-grupe-portfolio.git
+    git clone https://github.com/igneJurkute/portfolio.git
     ```
 2. Install NPM packages
     ```sh
@@ -72,7 +72,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Ignė: [Github](https://github.com/igneJurkute)
 
 ## ⚠️ License
 

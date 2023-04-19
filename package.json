@@ -1,10 +1,10 @@
 {
-    "name": "43-grupe-portfolio",
+    "name": "portfolio",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "scripts": {
-        "dev": "dead-server --host=localhost --port=4307",
+        "dev": "dead-server --host=localhost --port=4320",
         "test": "jest --passWithNoTests",
         "test:all": "jest --watchAll --passWithNoTests --coverage",
         "test:coverage": "jest --coverage"
