@@ -2,7 +2,6 @@
 @import '../base/base.css';
 @import '../base/layout.css';
 
-
 /* 3rd-party */
 @import '../3rd-party/font-awesome.min.css';
 
@@ -20,6 +19,9 @@
 /* hero: end */
 
 /* about: start */
+.about .section-title {
+    margin-bottom: 1em;
+}
 /* about: end */
 
 /* services: start */
